@@ -122,6 +122,8 @@ color: #009ADA;
 
 .flecha{
     position: absolute;
+    width: 5% ;
+    height: 12% ;
     top:80% ;
-    left:90% ; 
+    left:80% ; 
 }
