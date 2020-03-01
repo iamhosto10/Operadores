@@ -1,0 +1,79 @@
+
+/* Rectangle 12 */
+
+.rectangle12{
+position: absolute;
+width: 84%;
+height: 43.5%;
+left: 1%;
+top: 40%;
+
+background: #FFFFFF;
+border: 1px solid #009ADA;
+box-sizing: border-box;
+border-radius: 112px;
+}
+
+/* Respuestas : */
+
+.respuesta{
+    position: absolute;
+    left: 10%;
+    top: 17%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3vw;
+
+    color: #009ADA;
+}
+
+.aprobado{
+    position: absolute;
+    left: 40%;
+    top: 17%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3vw;
+}
+
+.numero{
+    position: absolute;
+    left: 57%;
+    top: 19.5%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    
+}
+
+.volver{
+    position: absolute;
+    left: 75%;
+    top: 85%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+
+    color: #009ADA;
+}
+
+.volver2{
+    position: absolute;
+    left: 65%;
+    top: 85%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+
+    color: #009ADA;
+}

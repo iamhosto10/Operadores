@@ -1,0 +1,127 @@
+
+/* Rectangle 11 */
+
+.rectangle11{
+position: absolute;
+width: 89%;
+height: 48%;
+left: 10%;
+top: 34%;
+
+background: #FFFFFF;
+border: 1px solid #009ADA;
+box-sizing: border-box;
+border-radius: 112px;
+}
+
+
+/* Pregunta # */
+
+.pregunta{
+    position: absolute;
+    left: 10%;
+    top: 7%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3vw;
+
+
+    color: #009ADA;
+}
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+.escrito{
+position: absolute;
+
+left: 10%;
+top: 33%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2vw;
+
+color: #009ADA;
+
+
+}
+
+/* a) Respuesta a */
+
+.respuestaa{
+position: absolute;
+left: 10%;
+top: 55%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2vw;
+
+
+color: #009ADA;
+
+}
+
+/* c) Respuesta c */
+
+.respuestac{
+position: absolute;
+left: 10%;
+top: 75%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2vw;
+
+
+color: #009ADA;
+
+
+}
+
+/* d) Respuesta d */
+
+.respuestad{
+position: absolute;
+left: 40%;
+top: 55%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2vw;
+/* line-height: 28px; */
+
+color: #009ADA;
+
+
+}
+
+/* b) Respuesta b */
+
+.respuestab{
+position: absolute;
+left: 40%;
+top: 75%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2vw;
+/* line-height: 28px; */
+
+color: #009ADA;
+
+
+}
+
+.flecha{
+    position: absolute;
+    top:80% ;
+    left:90% ; 
+}

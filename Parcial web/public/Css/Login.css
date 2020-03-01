@@ -1,0 +1,116 @@
+/* Rectangle 9 */
+
+.rectangle9{
+    position: absolute;
+    width: 14%;
+    height: 7%;
+    left: 18%;
+    top: 87%;
+
+    background: #FFFFFF;
+    border: 1px solid #009ADA;
+    box-sizing: border-box;
+    border-radius: 112px;
+}
+
+
+/* Ingresar */
+
+.ingresar{
+
+    position: absolute;
+    width: 60%;
+    height: 90%;
+    left: 20%;
+    top: 5%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+
+    color: #009ADA;
+
+}
+
+
+
+/* Gasoducto 1 */
+
+.gasoducto{
+
+    position: absolute;
+    top: 20%;
+    left: 50%;
+
+}
+
+/* login_icon 1 */
+
+.icono{
+    position: absolute;
+    left: 20%;
+    top: 10%;
+}
+
+
+
+
+/* Rectangle 7 */
+
+.rectangle7{
+    position: absolute;
+    width: 20%;
+    height: 7%;
+    left: 15%;
+    top: 60%;
+
+    background: #C4C4C4;
+    border-radius: 40px;
+}
+
+/* Rectangle 8 */
+
+.rectangle8{
+    position: absolute;
+    width: 20%;
+    height: 7%;
+    left: 15%;
+    top: 73%;
+
+    background: #C4C4C4;
+    border-radius: 40px;
+}
+
+/* Login */
+
+.login{
+    position: absolute;
+    width: 12%;
+    height: 20%;
+    left: 20%;
+    top: 43%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4vw;
+
+
+
+    color: #009ADA;
+
+}
+
+/* Vector 1 */
+
+.linea{
+    position: absolute;
+    left: 15%;
+    top: 40%;
+    width: 20%;
+
+    border: 1px solid #009ADA;
+}

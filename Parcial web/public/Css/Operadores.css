@@ -1,0 +1,98 @@
+/* Operadores 1 */
+
+
+
+/* Rectangle 10 */
+
+.rectangle10{
+position: absolute;
+width: 73%;
+height: 80%;
+left: 12.5%;
+top: 1%;
+
+background: #FFFFFF;
+border: 1px solid #009ADA;
+box-sizing: border-box;
+border-radius: 112px;
+}
+
+/* Operadores */
+
+.operadores{
+position: absolute;
+left: 30%;
+top: 15%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 3.8vw;
+
+
+color: #009ADA;
+
+
+}
+
+/* Rectangle 10 */
+
+.selectlist{
+position: absolute;
+width: 55%;
+height: 10%;
+left: 27%;
+top: 43%;
+
+background: #FFFFFF;
+border: 1px solid #009ADA;
+box-sizing: border-box;
+border-radius: 40px;
+}
+
+/* Rectangle 10 */
+
+.rectangle11{
+position: absolute;
+width: 27%;
+height: 15%;
+left: 36%;
+top: 70%;
+
+background: #FFFFFF;
+border: 1px solid #009ADA;
+box-sizing: border-box;
+border-radius: 112px;
+}
+
+/* Seleccionar */
+
+.seleccionar{
+position: absolute;
+
+left: 20%;
+top: 25%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 2.5vw;
+
+border: 0;
+background-color: rgb(255, 255, 255);
+
+color: #009ADA;
+
+
+}
+
+/* login_icon 2 */
+
+.icono{
+position: absolute;
+
+left: 17%;
+top: 41.5%;
+
+
+}
